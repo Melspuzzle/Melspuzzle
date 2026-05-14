@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-You can see my projects live and working in real time here:  (And sorry I was lazy, so it's in German)
-
-[melspuzzle](https://d10xb0zk4ojqsf.cloudfront.net/)
-
-Feel free to check out the source code in my repositories.
 <!--
 **Melspuzzle/Melspuzzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
